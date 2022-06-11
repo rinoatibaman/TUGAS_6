@@ -46,4 +46,4 @@ LOAD DATA INFILE ‘Nama_backup_file’ INTO TABLE nama_table ;
 
 crontab –e
 
-00**7myqldump -u root -p irga_312010067>irga_312010067_backup.sql
+0***9myqldump -u root -p rino_312010006>rino_312010006backup.sql
